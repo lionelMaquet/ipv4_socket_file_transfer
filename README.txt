@@ -1,14 +1,3 @@
-[AVANT PROPOS]
-
-Avant toute chose, je tiens à vous remercier, Mr Belhomme, pour le délai supplémentaire que vous m'avez accordé. 
-Je tiens aussi à m'excuser pour ce travail qui est encore incomplet : Tout fonctionne sauf l'ipv6. 
-Impossible donc dans la version 2 d'envoyer un fichier en renseignant le nom du serveur distant associé à son adresse IPV6.
-Veuillez m'excuser pour cette partie manquante. 
-
-Lionel
-
-
-
 [CONTENU DU TRAVAIL]
 
 	- recevoir_f.c 
